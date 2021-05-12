@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/muskan-jain-50b252175/">
   <img align="left" width="50px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
+<a href = "mailto: muskanj895@gmail.com">
+  <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/gmail.png" />
+</a>
