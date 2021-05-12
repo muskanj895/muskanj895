@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskanj895&show_icons=true&theme=dracula)
+![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskanj895&show_icons=true&theme=dracula)
 <h2> Connect with me! </h2>
 <a href="https://www.linkedin.com/in/muskan-jain-50b252175/">
   <img align="left" width="50px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
